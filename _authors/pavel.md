@@ -1,5 +1,4 @@
 ---
-short_name: pavel
 name: Pavel Parshikov
 position: Senior PHP Developer
 ---
